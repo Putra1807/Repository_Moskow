@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "name": "Yoga",
+    "instructor": "Bella",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing",
+    "image": "../assets/images/class/yoga-class.jpg"
+
+  },
+  {
+    "id": 2,
+    "name": "Aerobic",
+    "instructor": "Mary",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing",
+    "image": "../assets/images/class/crossfit-class.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Cardio",
+    "instructor": "Cathe",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing",
+    "image": "../assets/images/class/cardio-class.jpg"
+  }
+]
